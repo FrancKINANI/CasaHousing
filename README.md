@@ -22,7 +22,7 @@ housing-price-prediction/
 ## 🔧 Installation  
 1. **Clone le repo** :  
    ```bash  
-   git clone https://github.com/ton-username/housing-price-prediction.git  
+   git clone https://github.com/FrancKINANI/CasaHousing.git  
    ```  
 
 2. **Installe les dépendances** :  
